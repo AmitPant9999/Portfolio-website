@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/AMIT/Desktop/projects/portfolio/app/page.js"],"sourcesContent":["import Image from \"next/image\";\nimport Navbar from \"./components/Navbar\";\n\nexport default function Home() {\n  return (\n    <>\n    <Navbar/>\n    </>\n  )\n}"],"names":[],"mappings":";;;;AAAA;AACA;;;;AAEe,SAAS;IACtB,qBACE;kBACA,cAAA,8OAAC,4HAAA,CAAA,UAAM;;;;;;AAGX"}},
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
